@@ -13,7 +13,7 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
     AppComponent,
     ProductListComponent,
     TopBarComponent,
-    ProductAlertsComponent
+    ProductAlertsComponent,
   ],
   imports: [
     BrowserModule,
